@@ -1,0 +1,90 @@
+{
+    "assetID": "cbd0b6e9-90e6-4e60-abf0-9ad820c7ce72",
+    "assetName": "sand_cube",
+    "assetPath": "Assets/sand_cube/sand_cube.json",
+    "meshURI": "d9024f58-d63d-40f7-914f-1da5429847d8",
+    "materials": [
+        {
+            "id": "0fe0fff3-471a-4f2b-8e5a-b2808ddd10f8",
+            "textureMap": [
+                {
+                    "key": "Albedo",
+                    "value": "0d052c58-c0c3-49f8-b2bf-4aa1522af8fc"
+                },
+                {
+                    "key": "Normal",
+                    "value": "e9278657-b558-42a1-89a9-e8bdd55d5240"
+                },
+                {
+                    "key": "Metalness",
+                    "value": "444379d2-f342-4e13-9c85-fca618191301"
+                },
+                {
+                    "key": "Roughness",
+                    "value": "2ba66f13-f9e0-421a-8193-37b78f1d39f9"
+                }
+            ],
+            "property": {
+                "albedoConstant": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "metallicConstant": 0.0,
+                "AOConstant": 0.0,
+                "diffuse": {
+                    "x": 0.800000011920929,
+                    "y": 0.800000011920929,
+                    "z": 0.800000011920929
+                },
+                "specular": {
+                    "x": 0.5,
+                    "y": 0.5,
+                    "z": 0.5
+                },
+                "ambient": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "emissive": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "transparent": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                },
+                "refection": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "emissiveIntensity": 0.0,
+                "specularPower": 250.0,
+                "transparentIntensity": 0.0,
+                "refractionIntensity": 1.4500000476837159
+            }
+        }
+    ],
+    "textures": [
+        {
+            "key": "0d052c58-c0c3-49f8-b2bf-4aa1522af8fc",
+            "value": "Assets/sand_cube/Textures/albedo.png"
+        },
+        {
+            "key": "e9278657-b558-42a1-89a9-e8bdd55d5240",
+            "value": "Assets/sand_cube/Textures/normal.png"
+        },
+        {
+            "key": "444379d2-f342-4e13-9c85-fca618191301",
+            "value": "Assets/sand_cube/Textures/metalness.png"
+        },
+        {
+            "key": "2ba66f13-f9e0-421a-8193-37b78f1d39f9",
+            "value": "Assets/sand_cube/Textures/roughness.png"
+        }
+    ]
+}
